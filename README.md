@@ -1,8 +1,6 @@
 # Bank Management System
 ## Detail
 
-I apologize for the lengthy response. Here is a longer version of the explanation, but still shorter than the original:
-
 Step 1: Define Structure
 The code defines an Account structure to hold account information, including account number, name, balance, and more.
 
